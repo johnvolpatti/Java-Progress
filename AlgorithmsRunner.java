@@ -22,7 +22,5 @@ public class AlgorithmsRunner
     Algorithms sorted = new Algorithms(series);
     sorted.insertionSort();
     sorted.printArray();
-    
-    System.out.println("hi");
   }
 }
